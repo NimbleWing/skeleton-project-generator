@@ -1,0 +1,25 @@
+{
+  "name": "skeleton-project-generator",
+  "version": "1.0.0",
+  "description": "base project generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NimbleWing/skeleton-project-generator.git"
+  },
+  "keywords": [
+    "nodejs",
+    "CLI",
+    "project",
+    "generator"
+  ],
+  "author": "NimbleWing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NimbleWing/skeleton-project-generator/issues"
+  },
+  "homepage": "https://github.com/NimbleWing/skeleton-project-generator#readme"
+}
